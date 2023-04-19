@@ -1,0 +1,60 @@
+
+    [
+      {
+        "recipe_name": "Chicken Curry",
+        "description": "A delicious and easy-to-make Indian curry made with chicken and a blend of aromatic spices.",
+        "image_url": "./nilupic/IMG-20230418-WA0001.jpg"
+      },
+      {
+        "recipe_name": "Pesto Pasta",
+        "description": "A simple and flavorful Italian pasta dish made with fresh basil pesto and cherry tomatoes.",
+        "image_url": "./nilupic/IMG-20230418-WA0003.jpg"
+      },
+      {
+        "recipe_name": "Vegetable Stir-Fry",
+        "description": "A colorful and healthy Asian-inspired stir-fry made with a variety of fresh vegetables and a flavorful sauce.",
+        "image_url": "./nilupic/IMG-20230418-WA0004.jpg"
+      },
+      {
+        "recipe_name": "Fish Tacos",
+        "description": "A light and flavorful Mexican dish made with grilled fish, fresh vegetables, and a zesty lime-cilantro sauce.",
+        "image_url": "./nilupic/IMG-20230418-WA0005.jpg"
+      },
+      {
+        "recipe_name": "Mushroom Risotto",
+        "description": "A creamy and comforting Italian dish made with Arborio rice, mushrooms, and Parmesan cheese.",
+        "image_url": "./nilupic/IMG-20230418-WA0006.jpg"
+      },
+      {
+        "recipe_name": "Tomato Soup",
+        "description": "A classic and comforting soup made with ripe tomatoes, garlic, and basil.",
+        "image_url": "./nilupic/IMG-20230418-WA0007.jpg"
+      },
+      {
+        "recipe_name": "Grilled Cheese Sandwich",
+        "description": "A simple but satisfying American classic made with buttery toasted bread and melted cheddar cheese.",
+        "image_url": "./nilupic/IMG-20230418-WA0008.jpg"
+      },
+      {
+        "recipe_name": "Sushi Rolls",
+        "description": "A fun and colorful Japanese dish made with sushi rice, seaweed, fresh fish, and vegetables.",
+        "image_url": "./nilupic/IMG-20230418-WA0009.jpg"
+      },
+      {
+        "recipe_name": " Tacos",
+        "description": "A flavorful and easy-to-make Mexican dish made with ground meat, fresh vegetables, and a blend of spices.",
+        "image_url": "./nilupic/IMG-20230418-WA0010.jpg"
+      },
+      {
+        "recipe_name": "Caesar Salad",
+        "description": "A classic and refreshing salad made with crisp romaine lettuce, Parmesan cheese, and a creamy Caesar dressing.",
+        "image_url": "./nilupic/IMG-20230418-WA0011.jpg"
+      },
+      {
+        "recipe_name": "Pancakes",
+        "description": "A simple and satisfying breakfast dish made with flour, eggs, milk, and a touch of sugar.",
+        "image_url": "./nilupic/IMG-20230418-WA0012.jpg"
+      }
+    ]
+  
+  
